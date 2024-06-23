@@ -1,0 +1,84 @@
+.vb-logo {
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.header {
+    height: 70px;
+    position: fixed;
+    background-color: white;
+    z-index: 20000;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.vb {
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+    display: inline-block;
+    margin-left: 10px;
+    vertical-align: middle;
+}
+
+.body {
+    margin: 0px;
+}
+
+.wallpaper {
+    width: 100%;
+    opacity: 1;
+}
+
+.tagline {
+    color: white;
+    font-size: 25px;
+    width: 290px;
+    margin-bottom: 15px;
+    margin-left: 60px;
+}
+
+.tagline1 {
+    color: white;
+    font-size: 15px;
+    margin-left: 60px;
+}
+
+.mission {
+    font-size: 40px;
+    font-weight: 1000;
+    width: 350px;
+    color: white;
+    margin-bottom: 20px;
+    margin-left: 60px;
+    margin-top: 60px;
+}
+
+.a {
+    position: absolute;
+    z-index: 100;
+    margin-top: 50px;
+}
+
+.r {
+    position: relative;
+}
+
+.r .wallpaper {
+    margin-top: 50px;
+}
+
+.ma {
+    color: white;
+    font-size: 15px;
+    margin-top: 200px;
+    margin-left: -40px;
+}
